@@ -1,26 +1,26 @@
 # Drug Store Management System (dsms) 
 This application build in using Core Java, Java Swing, Hibernate, MySQL & NetBeans IDE etc.
 
-#Login Form
+#Login Form<br><br>
 <img src="img/01.Login.png">
 
-#Dashboard
+#Dashboard<br><br>
 <img src="img/02.dashboard.png">
 
-#File Menue
+#File Menue<br><br>
 <img src="img/03.filemenue.png">
 
-#Purchase Service
+#Purchase Service<br><br>
 <img src="img/04.purchaseservice.png">
 
-#Sales Service
+#Sales Service<br><br>
 <img src="img/05.salesservice.png">
 
-#Purchase Report
+#Purchase Report<br><br>
 <img src="img/06.purchasereport.png">
 
-#Sales Report
+#Sales Report<br><br>
 <img src="img/07.salesreport.png">
 
-#Logout
+#Logout<br><br>
 <img src="img/08.lougout.png">
